@@ -1,1 +1,30 @@
-hello
+1. Problem Defination
+   Build an ML model that classifies messages (SMS/Email) as Spam or Ham (Not Spam) using NLP techniques and classical machine 
+   learning algorithms.
+2. Data Collection
+   Load dataset (CSV format)
+   Common columns:
+         text / Email → message content
+         label / Category → ham/spam
+3. Exploratory Data Analysis (EDA)
+   Data Shape
+   Missing values
+   Class distribution
+   Word count / message length
+   Visualizations
+4. Data Cleaning & Preprocessing
+   Applying NLP text-cleaning steps:
+   Lowercasing
+   Remove extra spaces
+   Remove numbers
+   Remove punctuation
+5. Train–Test Split
+6. Feature Extraction (TF-IDF)
+7. Model Building
+   Train different ML models:
+   Logistic Regression
+   Naive Bayes
+   SVM
+   Random Forest
+   Decision Tree
+   
